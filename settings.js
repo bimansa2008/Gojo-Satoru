@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['94723814865']
 global.premium = ['94723814865']
-global.ownernomer = 'Your Number'
+global.ownernomer = '94723814865']
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'hikzz & bot '
 global.footer = '©NexusNwInc.'
@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Gojo-Satoru'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','⏳']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
